@@ -1,3 +1,3 @@
 # Vulkan Window
 
-Construíndo janelas com Vulkan com intuito de aprendizado.
+Construindo janelas com Vulkan com intuito de aprendizado.
